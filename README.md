@@ -4,9 +4,19 @@
 - 🧠 I’m experienced in industrial tabular data ML modeling, data visualization and snapshots-based SciML models.
 - 🌱 I’m currently learning Large Language Models, Natural Language Processing and Neural Operators.
 
+#### 📚 Main Repositories
+If you want to get to know my work, make sure to check these repositories:
+- [Tabular Data ML Portfolio](https://github.com/gf-barros/data_science_portfolio)
+- LLMs and Transformers (TBD)
+- Data Engineering Portfolio (TBD)
+- Scientific Machine Learning Portfolio (TBD)
+
 
 #### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gabrielfbarros/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@gfbarros) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielfbarros/) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gfbarros) 
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://medium.com/@gfbarros)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Gabriel-Barros-6)
 
 #### 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -23,6 +33,7 @@
 ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 <!--
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) 
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) 
@@ -36,7 +47,8 @@
 #### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gf-barros&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
+<!--
 #### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=gf-barros&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
-
+-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
