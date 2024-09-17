@@ -1,4 +1,3 @@
-### 💫 About Me:
 #### Hi, I'm Gabriel!
 - 🇧🇷 I'm a Brazilian Data Scientist and Machine Learning Engineer
 - 🎓 I hold a D.Sc. in Civil Engineering focused on the application of [Scientific Machine Learning](https://sites.brown.edu/bergen-lab/research/what-is-sciml/) in [Computational Science and Engineering](https://en.wikipedia.org/wiki/Computer_science_and_engineering) problems. You can check my thesis [here](https://www.coc.ufrj.br/pt/teses-de-doutorado/662-2022-2/10236-gabriel-freguglia-barros).
