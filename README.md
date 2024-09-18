@@ -1,4 +1,5 @@
-#### Hi, I'm Gabriel!
+### Hi, I'm Gabriel!
+#### 👨🏻‍💻 Bio
 - 🇧🇷 I'm a Brazilian Data Scientist and Machine Learning Engineer
 - 🎓 I hold a D.Sc. in Civil Engineering focused on the application of [Scientific Machine Learning](https://sites.brown.edu/bergen-lab/research/what-is-sciml/) in [Computational Science and Engineering](https://en.wikipedia.org/wiki/Computer_science_and_engineering) problems. You can check my thesis [here](https://www.coc.ufrj.br/pt/teses-de-doutorado/662-2022-2/10236-gabriel-freguglia-barros).
 - 🧠 I’m experienced in industrial tabular data ML modeling, data visualization and snapshots-based SciML models.
@@ -7,7 +8,7 @@
 #### 📚 Main Repositories
 If you want to get to know my work, make sure to check these repositories:
 - [Tabular Data ML Portfolio](https://github.com/gf-barros/data_science_portfolio)
-- LLMs and Transformers (TBD)
+- [LLMs and Transformers](https://github.com/gf-barros/llm_and_transformers_portfolio)
 - Data Engineering Portfolio (TBD)
 - Scientific Machine Learning Portfolio (TBD)
 
@@ -17,7 +18,7 @@ If you want to get to know my work, make sure to check these repositories:
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gfbarros) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/gfbarros)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Gabriel-Barros-6)
-
+<!--
 #### 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
@@ -34,7 +35,7 @@ If you want to get to know my work, make sure to check these repositories:
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-<!--
+
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) 
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
