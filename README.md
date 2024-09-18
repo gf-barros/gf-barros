@@ -7,10 +7,10 @@
 
 #### 📚 Main Repositories
 If you want to get to know my work, make sure to check these repositories:
-- [Tabular Data ML Portfolio](https://github.com/gf-barros/data_science_portfolio)
-- [LLMs and Transformers](https://github.com/gf-barros/llm_and_transformers_portfolio)
-- Data Engineering Portfolio (TBD)
-- Scientific Machine Learning Portfolio (TBD)
+- 🔢 [Tabular Data ML Portfolio](https://github.com/gf-barros/data_science_portfolio)
+- 💬 [LLMs and Transformers](https://github.com/gf-barros/llm_and_transformers_portfolio)
+- 🏭 Data Engineering Portfolio (TBD)
+- 🌎 Scientific Machine Learning Portfolio (TBD)
 
 
 #### 🌐 Socials:
