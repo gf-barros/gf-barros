@@ -1,7 +1,7 @@
 ### Hi, I'm Gabriel!
 #### 👨🏻‍💻 Bio
 - 🇧🇷 I'm a Brazilian Data Scientist and Machine Learning Engineer
-- 🎓 I hold a D.Sc. in Civil Engineering focused on the application of [Scientific Machine Learning](https://sites.brown.edu/bergen-lab/research/what-is-sciml/) in [Computational Science and Engineering](https://en.wikipedia.org/wiki/Computer_science_and_engineering) problems. You can check my thesis [here](https://www.coc.ufrj.br/pt/teses-de-doutorado/662-2022-2/10236-gabriel-freguglia-barros).
+- 🎓 I hold a D.Sc. in Civil Engineering focused on the application of [Scientific Machine Learning](https://sites.brown.edu/bergen-lab/research/what-is-sciml/) in [Computational Science and Engineering](https://en.wikipedia.org/wiki/Computer_science_and_engineering) problems. You can check my D.Sc. thesis [here](https://github.com/gf-barros/gf-barros/blob/main/Gabriel_Barros_DSc.pdf) and my M.Sc. thesis [here](https://github.com/gf-barros/gf-barros/blob/main/Gabriel_Barros_MSc.pdf).
 - 🧠 I’m experienced in industrial tabular data ML modeling, data visualization and snapshots-based SciML models.
 - 🌱 I’m currently learning Large Language Models, Natural Language Processing and Neural Operators.
 
