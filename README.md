@@ -6,16 +6,13 @@ __________________________________________________________________
 - 🧠 I’m experienced in industrial tabular data ML modeling, data visualization and snapshots-based SciML models.
 - 🌱 I’m currently learning Large Language Models, Natural Language Processing and Neural Operators.
 __________________________________________________________________
-
 #### 💻 Main Repositories
 If you want to get to know my work, make sure to check these repositories:
 - 🔢 [Tabular Data ML Portfolio](https://github.com/gf-barros/data_science_portfolio)
 - 💬 [LLMs and Transformers](https://github.com/gf-barros/llm_and_transformers_portfolio)
 - 🏭 Data Engineering Portfolio (TBD)
 - 🌎 Scientific Machine Learning Portfolio (TBD)
-
 __________________________________________________________________
-
 #### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielfbarros/) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gfbarros) 
@@ -23,7 +20,6 @@ __________________________________________________________________
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Gabriel-Barros-6)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=4ixqUCEAAAAJ)
 __________________________________________________________________
-
 #### 🏆 Awards
 ##### 2024
 - [2024 ABMEC Award for the Best Doctoral Thesis of the Year](https://www.linkedin.com/posts/gabrielfbarros_honored-and-grateful-to-have-received-the-activity-7263592151186296832-9BTi?utm_source=share&utm_medium=member_desktop&rcm=ACoAABw7GBQB85_L-HDs16KcWhM4Agha_wPU060) at the XLV Ibero-Latin American Congress on Computational Methods in Engineering. Also on [COPPE/UFRJ](https://coppe.ufrj.br/planeta-coppe/pesquisadores-do-programa-de-engenharia-civil-da-coppe-sao-premiados-pela-abmec/)
@@ -37,7 +33,6 @@ __________________________________________________________________
 - Selected to participate at the [ACM Summer School - HPC Architectures for AI and Dedicated Applications](https://europe.acm.org/2019-summer-school) in Barcelona, Spain.
 
 - Selected as a Student Volunteer at SuperComputing 2019 - [SC19]([https://sc21.supercomputing.org/program/studentssc/student-volunteers/index.html](https://sc20.supercomputing.org/2020/08/11/a-series-of-firsts-for-student-volunteer-gabriel-freguglia-barros/index.html)) in Denver, USA.
-
 __________________________________________________________________
 #### 📚 Publications
 ##### 2025
