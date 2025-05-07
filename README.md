@@ -13,6 +13,7 @@ If you want to get to know my work, make sure to check these repositories:
 - 💬 [LLMs and Transformers](https://github.com/gf-barros/llm_and_transformers_portfolio)
 - 🏭 Data Engineering Portfolio (TBD)
 - 🌎 Scientific Machine Learning Portfolio (TBD)
+  
 __________________________________________________________________
 #### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielfbarros/) 
