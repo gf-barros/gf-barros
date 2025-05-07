@@ -20,6 +20,7 @@ __________________________________________________________________
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/gfbarros)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Gabriel-Barros-6)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=4ixqUCEAAAAJ)
+
 __________________________________________________________________
 #### 🏆 Awards
 ##### 2024
@@ -34,6 +35,7 @@ __________________________________________________________________
 - Selected to participate at the [ACM Summer School - HPC Architectures for AI and Dedicated Applications](https://europe.acm.org/2019-summer-school) in Barcelona, Spain.
 
 - Selected as a Student Volunteer at SuperComputing 2019 - [SC19]([https://sc21.supercomputing.org/program/studentssc/student-volunteers/index.html](https://sc20.supercomputing.org/2020/08/11/a-series-of-firsts-for-student-volunteer-gabriel-freguglia-barros/index.html)) in Denver, USA.
+- 
 __________________________________________________________________
 #### 📚 Publications
 ##### 2025
