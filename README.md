@@ -35,7 +35,7 @@ __________________________________________________________________
 ##### 2019
 - Selected to participate at the [ACM Summer School - HPC Architectures for AI and Dedicated Applications](https://europe.acm.org/2019-summer-school) in Barcelona, Spain.
 
-- Selected as a Student Volunteer at SuperComputing 2019 - [SC19]((https://sc20.supercomputing.org/2020/08/11/a-series-of-firsts-for-student-volunteer-gabriel-freguglia-barros/index.html)) in Denver, USA.
+- Selected as a Student Volunteer at SuperComputing 2019 - [SC19](https://sc20.supercomputing.org/2020/08/11/a-series-of-firsts-for-student-volunteer-gabriel-freguglia-barros/index.html) in Denver, USA.
 - 
 __________________________________________________________________
 #### 📚 Publications
