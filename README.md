@@ -39,15 +39,16 @@ If you want to get to know my work, make sure to check these repositories:
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) 
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
--->
+
 #### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gf-barros&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gf-barros&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gf-barros&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
 #### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gf-barros&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
-
+-->
 <!--
 #### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=gf-barros&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
