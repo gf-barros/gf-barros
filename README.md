@@ -1,6 +1,6 @@
 __________________________________________________________________
 #### 👨🏻‍💻 Bio
-- Hi, I'm Gabriel!
+- 👋🏻 Hi, I'm Gabriel!
 - 🇧🇷 I'm a Brazilian Data Scientist and Machine Learning Engineer
 - 🎓 I hold a D.Sc. in Civil Engineering focused on the application of [Scientific Machine Learning](https://sites.brown.edu/bergen-lab/research/what-is-sciml/) in [Computational Science and Engineering](https://en.wikipedia.org/wiki/Computer_science_and_engineering) problems. You can check my D.Sc. thesis [here](https://github.com/gf-barros/gf-barros/blob/main/Gabriel_Barros_DSc.pdf) and my M.Sc. thesis [here](https://github.com/gf-barros/gf-barros/blob/main/Gabriel_Barros_MSc.pdf). You can also find them at the [Civil Engineering Program at COPPE website](http://www.coc.ufrj.br/pt/)
 - 🧠 I’m experienced in industrial tabular data ML modeling, data visualization and snapshots-based SciML models.
