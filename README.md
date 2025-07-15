@@ -9,11 +9,9 @@ __________________________________________________________________
 __________________________________________________________________
 #### 💻 Main Repositories
 If you want to get to know my work, make sure to check these repositories:
-- 🔢 [Tabular Data ML Portfolio](https://github.com/gf-barros/data_science_portfolio)
-- 💬 [LLMs and Transformers](https://github.com/gf-barros/llm_and_transformers_portfolio)
-- 🌎 [Computational Science and Engineering](https://github.com/gf-barros/cse)
-- 🧠 [Scientific Machine Learning](https://github.com/gf-barros/sciml)
 - 🌊 [SnapFlow](https://github.com/gf-barros/snapflow)
+- 🔢 [Tabular Data ML Portfolio](https://github.com/gf-barros/data_science_portfolio)
+- 🌎 [Computational Science and Engineering](https://github.com/gf-barros/cse)
   
 __________________________________________________________________
 #### 🌐 Socials:
